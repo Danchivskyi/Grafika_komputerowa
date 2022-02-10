@@ -1,0 +1,8 @@
+﻿  Drzewo.cpp
+  Krzak.cpp
+  Lazik.cpp
+  Level.cpp
+D:\4 semestr\4\Grafika komputerowa\Lazik_Marsjański\Lazik_Marsjanski\Lazik_Marsjanski\Level.cpp(126,58): warning C4101: 'y': unreferenced local variable
+  main.cpp
+  Generating Code...
+  Lazik_Marsjanski.vcxproj -> D:\4 semestr\4\Grafika komputerowa\Lazik_Marsjański\Lazik_Marsjanski\Debug\Lazik_Marsjanski.exe
